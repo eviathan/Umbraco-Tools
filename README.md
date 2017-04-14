@@ -21,4 +21,8 @@ Opens a new tab at homepage with the miniprofiler: http://myumbracosite.com/?umb
 
 *NOTE: this probably should open the current tab*
 
+#### Trace
+
+Opens a new tab at with the ASP.Net trace page (may need configuration): http://myumbracosite.com//trace.axd
+
 ![image](http://i.imgur.com/BkW259P.png)
