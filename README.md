@@ -15,4 +15,10 @@ Opens a new tab with your homepage: http://myumbracosite.com
 
 Opens a new tab with at the umbraco backend: http://myumbracosite.com/umbraco/
 
+#### Mini Profiler
+
+Opens a new tab at homepage with the miniprofiler: http://myumbracosite.com/?umbDebug=true
+
+NOTE: this probably should open the current tab
+
 ![image](http://i.imgur.com/BkW259P.png)
