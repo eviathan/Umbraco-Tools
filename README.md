@@ -3,9 +3,9 @@
 
 Allows for quick access to common umbraco paths.
 
----
+[Download](https://chrome.google.com/webstore/detail/umbraco-tools/hcpmfnegjcohiedakejipjbegjoiiakj)
 
-http://myumbracosite.com
+---
 
 #### Frontend
 
