@@ -1,7 +1,7 @@
 # Umbraco-Tools 1.1
 ### Umbraco Toolkit Chrome extension
 
-![image](http://i.imgur.com/BkW259P.png)
+![image](https://i.imgur.com/JUUmmE4.png)
 
 Allows for quick access to common umbraco paths.
 
