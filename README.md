@@ -1,6 +1,8 @@
 # Umbraco-Tools 1.1
 ### Umbraco Toolkit Chrome extension
 
+![image](http://i.imgur.com/BkW259P.png)
+
 Allows for quick access to common umbraco paths.
 
 [Download](https://chrome.google.com/webstore/detail/umbraco-tools/hcpmfnegjcohiedakejipjbegjoiiakj)
@@ -25,4 +27,4 @@ Opens a new tab at homepage with the miniprofiler: http://myumbracosite.com/?umb
 
 Opens a new tab at with the ASP.Net trace page (may need configuration): http://myumbracosite.com//trace.axd
 
-![image](http://i.imgur.com/BkW259P.png)
+
